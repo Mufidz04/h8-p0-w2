@@ -10,7 +10,7 @@ Algoritma :
 Pseudocode
 
 STORE "massa" with value 600
-STORE "percepatan" with value 
+STORE "percepatan" with value 2 
 STORE "resultan gaya" without any value
 
 CALCULATE "massa" times "percepatan"
